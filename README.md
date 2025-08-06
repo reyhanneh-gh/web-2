@@ -30,7 +30,7 @@ Designed as part of my ongoing web design journey, this furniture shop landing p
 ## 🧑‍🎨 Credits
 
 - **Developed by:** Reyhaneh Ghalambor  
-- **Date:** Jun 3, 2025  
+- **Date:** Jun 14, 2025  
 - **Mentor:** Parsa Ghorbanian  
 - **Purpose:** Practice CSS layout structuring using Flexbox (without responsiveness)
 
